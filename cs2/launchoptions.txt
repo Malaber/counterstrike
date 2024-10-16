@@ -1,0 +1,1 @@
+-threads 12 -lv -nojoy -high -tickrate 128 -maxplayers_override 16 -novid  -noborder -language english
